@@ -1,0 +1,14 @@
+
+body {
+  background-image: url(logo/lrp.png);
+  background-color: #f3e9e9;
+  backdrop-filter:blur(5px);
+  background-size: 230ch;
+  background-position: center;
+  background-blend-mode: screen;
+}
+div{
+  color: white;
+  background-color: black;
+  width: 700PX;
+}
